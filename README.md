@@ -19,7 +19,7 @@ Wes Bos is a Fullstack JavaScript developer and host of the excellent [Syntax](h
 **This is a new website I found and I LOVE it so far - super cool**
 Designed to help you imporve your Ruby coding skills and your project scope and management skills, these are awesome projects to add to your portfolio and ways to stay sharp with Ruby! (Fun fact, you can find projects in other languages too!)
 
-#### [Awesome Interests](https://github.com/actualize-online-2022-05/awesome-interests)
+#### [Awesome Interests](https://github.com/KatherineEvans/what-next/blob/main/awesome-interests.md)
 Keep working on cultivating your awesome interests in tech! Pick a project to work on, find a new tutorial for something you've always wanted to learn, explore different areas of tech to see if it sparks new interests in you. Just keep learning! 
 
 ## 2. Work on your personal website!
